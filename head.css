@@ -1,0 +1,7 @@
+.fundo {
+    background-position: center;
+    position: relative;
+   width: 580px;
+    border: 1px solid rgba(78, 78, 78, 0.43);
+    background: rgba(30,30,30,0.43);}
+}
