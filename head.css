@@ -29,7 +29,7 @@
     flex-wrap: wrap;
     margin: -10px 0 0 -10px;
 }
-.conta-topo-filho {
+.conta-filho {
     display: inline-block;
     margin: 10px 0 0 10px;
     flex-grow: 1;
