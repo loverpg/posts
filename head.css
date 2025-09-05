@@ -18,7 +18,7 @@
     width: 100%;
 }
 .conta-topo {
-    display: grid;
+    display: flex;
     font-family: 'canvas';
     font-size: 18px;
     font-weight: bold;
@@ -28,8 +28,14 @@
     border-bottom: 1px solid #242323;
     flex-wrap: wrap;
     margin: -10px 0 0 -10px;
-  grid-template-columns: 1fr 1fr 1fr 1fr; /* 4 colunas iguais */
-  text-align: center;
+}
+.conta-topo-filho {
+    display: inline-block;
+    margin: 10px 0 0 10px;
+    flex-grow: 1;
+    color: #c9c9c9;
+    letter-spacing: 2px;
+    font-size: 20px;
 }
 .conta-num {
     display: flex;
