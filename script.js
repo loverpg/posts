@@ -16,4 +16,4 @@ function atualizarTotais() {
 
 atualizarTotais();
 
-setInterval(atualizarTotais, 100000);
+setInterval(atualizarTotais, 1000);
