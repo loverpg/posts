@@ -49,6 +49,15 @@
     flex-wrap: wrap;
     margin: -10px 0 0 -10px;
 }
+
+.conta-num-filho {
+    display: inline-block;
+    margin: 10px 0 0 10px;
+    flex-grow: 1;
+    color: #ddd;
+    font-family: 'Poppins';
+}
+
 .conta-result {
     display: flex;
     font-family: 'canvas';
