@@ -26,8 +26,8 @@
     text-transform: uppercase;
     text-align: center;
     padding: 25px 0px;
-    border-bottom: 1px solid #242323;
     margin: -10px 0 0 -10px;
+    <!-- border-bottom: 1px solid #242323; --!>
 }
 .conta-filho {
     display: inline-block;
@@ -45,10 +45,10 @@
     text-transform: uppercase;
     text-align: center;
     padding: 15px 0px;
-    border-bottom: 1px solid #242323;
     flex-wrap: wrap;
     margin: -10px 0 0 -10px;
     grid-template-columns: 1fr 1fr 1fr 1fr;
+   <!-- border-bottom: 1px solid #242323; --!>
   }
 
 .conta-num-filho {
