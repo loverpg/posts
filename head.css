@@ -19,7 +19,7 @@
 }
 .conta-topo {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     font-family: 'canvas';
     font-size: 18px;
     font-weight: bold;
@@ -47,7 +47,7 @@
     padding: 15px 0px;
     flex-wrap: wrap;
     margin: -10px 0 0 -10px;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
    <!-- border-bottom: 1px solid #242323; --!>
   }
 
